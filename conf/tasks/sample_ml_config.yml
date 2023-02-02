@@ -1,0 +1,4 @@
+input:
+  database: "default"
+  table: "sklearn_housing"
+experiment: "/Shared/delta-live-tables-demo_experiment"
